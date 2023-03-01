@@ -1,36 +1,38 @@
-![326252-P9NGJU-588](https://user-images.githubusercontent.com/117833697/221996776-b7b9a16f-c4e7-4e49-a3f5-f299dd07e0a1.jpg)
+![326252-P9NGJU-588](https://user-images.githubusercontent.com/117833697/222075629-33e9b2d3-f6e3-4f34-9c88-5cef988f6df0.jpg)
 
-## 🚀 About Me
+
+## 🚀 Sobre mí
 
 **Junior Full Stack Developer**
 
-I'm a junior full stack developer. I student at FemCoder Factoria F5
+Soy Junior Full Stack Developer. Me encuentro actualmente estudiando FemCoder con Factoria F5
 
-## :white_flower: Do you want to know more about me?
+## :white_flower: ¿Quiéres saber algo más sobre mí?
 
-Hi, I'm Carmen! 👋
+¡Hola, soy Carmen! 👋
 
-A lover of the code. Wishing to continue learning always.
+Una amante del código que desea seguir aprendiendo siempre.
 
-I have redirected my professional career to web programming, doing continuous training in this field. I have discovered a world that I am passionate about and in which I want to continue growing and developing my professional career.
+He redirigido mi carrera profesional a la programación web, realizando formación continua en este campo. He descubierto un mundo que me apasiona y en el que quiero seguir creciendo y desarrollando mi carrera profesional.
 
-I like teamwork, and meeting the needs of customers so that they are fully satisfied with the product or service they hire, which allows them to maintain a lasting relationship over time.
+Me gusta el trabajo en equipo y satisfacer las necesidades de los clientes para que queden plenamente satisfechos con el producto o servicio que contratan, lo que permite mantener una relación duradera en el tiempo.
 
-I have a great capacity for learning and self-training.
+Soy proactiva y tengo una gran capacidad de aprendizaje y autoformación.
 
-## :office: Experience
-**Full Stack Developer** - One year - Web creation and management through different languages and tools
+## :office: Experiencia
 
-**Marketing Digital** - Six year - Website creation and management, Social Media, corporate image development, marketing and blog management
+**Full Stack Developer** - Un año - Creación y gestión web a través de diferentes lenguajes y herramientas
 
-**Strategy Consultant** - Ten year - Development of strategic plans, organizational restructuring and performance management
+**Marketing Digital** - Seis años - Creación y gestión de sitios web a través de WordPress, Social Media, desarrollo de imagen corporativa, marketing y gestión de blogs
 
-**Administrative** - Five year - Purchasing and sales management, customer management, work planning
+**Consultoría Estratégica** - Diez años - Planes estratégicos, reestructuración estratégica y gestión del desempeño
+
+**Gestión Administrativa** - Cinco años - Gestión de compras y ventas, gestión de clientes, planificación del trabajo
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmentrillonavarro/)
 
-## :floppy_disk: Languages and Tools
+## :floppy_disk: Lenguajes y Herramientas
 <div style="display:flex, flexdirection:row"><img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="HTML5"/>
 <img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="CSS"/>
 <img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="Sass"/>
@@ -48,6 +50,6 @@ I have a great capacity for learning and self-training.
 <img style="width:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop"/>
 </div>
 
-## Support
+## Contacto
 
-To get in touch with me you can do it through my email at mctrillon@gmail.com.
+Para ponerte en contacto conmigo puedes hacerlo a través de mi correo electrónico a mctrillon@gmail.com.
